@@ -1,6 +1,6 @@
 /**
  * @author Chachako
  */
-interface ToSvg {
+export interface ToSvg {
     toSvg(): string
 }
