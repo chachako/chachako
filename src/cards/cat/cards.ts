@@ -1,6 +1,6 @@
-import {CatCard} from "./card";
-import {CatCardVectors} from "./vectors";
-import {CatCardColors} from "./colors";
+import {CatCard} from "./card"
+import {CatCardVectors} from "./vectors"
+import {CatCardColors} from "./colors"
 
 /**
  * @author Chachako
@@ -17,7 +17,7 @@ const CatCatchingButterflyCard = new CatCard(
         "#DAC5B9",
         "#FFF8F3",
     ),
-);
+)
 
 /**
  * @author Chachako
@@ -34,7 +34,7 @@ const CatPlayingWithYarnCard = new CatCard(
         "#DBBFC1",
         "#FFE4E7",
     ),
-);
+)
 
 /**
  * @author Chachako
@@ -51,7 +51,7 @@ const CatSleepingCard = new CatCard(
         "#DCCEB8",
         "#FFF3E2",
     ),
-);
+)
 
 /**
  * @author Chachako
@@ -68,7 +68,7 @@ const ConfusedCatCard = new CatCard(
         "#D2C1B5",
         "#F4EFEC",
     ),
-);
+)
 
 /**
  * @author Chachako
@@ -85,7 +85,7 @@ const GrayCatCard = new CatCard(
         "#C9CFDA",
         "#F3F7FF",
     ),
-);
+)
 
 /**
  * @author Chachako
@@ -96,4 +96,4 @@ export const allCatCards = [
     CatSleepingCard,
     ConfusedCatCard,
     GrayCatCard,
-];
+]

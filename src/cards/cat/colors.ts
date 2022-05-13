@@ -1,4 +1,4 @@
-import {Color} from "../../common/color";
+import {Color} from "../../common/color"
 
 /**
  * @author Chachako

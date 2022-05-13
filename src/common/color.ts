@@ -3,7 +3,7 @@
  *
  * @author Chachako
  */
-export type Color = string | [number, number, number] | [number, number, number, number];
+export type Color = string | [number, number, number] | [number, number, number, number]
 
 export function resolveColor(color: Color, replaceAlpha: number = -1): any {
     if (typeof color === 'string') return color

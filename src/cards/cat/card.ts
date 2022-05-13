@@ -1,8 +1,8 @@
-import {CatCardVectors} from "./vectors";
-import {CatCardColors} from "./colors";
-import {getSvg} from "../../common/svg-file";
-import {resolveColor} from "../../common/color";
-import {ToSvg} from "../../common/to-svg";
+import {CatCardVectors} from "./vectors"
+import {CatCardColors} from "./colors"
+import {getSvg} from "../../common/svg-file"
+import {resolveColor} from "../../common/color"
+import {ToSvg} from "../../common/to-svg"
 
 /**
  * @author Chachako

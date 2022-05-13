@@ -1,4 +1,4 @@
-import {SvgFile} from "../../common/svg-file";
+import {SvgFile} from "../../common/svg-file"
 
 /**
  * @author Chachako
@@ -16,6 +16,6 @@ export class CatCardVectors {
             "./public/" + path + "/illustration.svg",
             "./public/" + path + "/kotlin.svg",
             "./public/" + path + "/rust.svg",
-        );
+        )
     }
 }
